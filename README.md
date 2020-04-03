@@ -145,3 +145,8 @@ Esta plataforma  identifica a las personas con fiebre en la oficina / espacio de
 ## Dataset para expertos del COVID-19
 
 - [Hacer Click para tener acceso vía Sitio web.](https://github.com/pomber/covid19)
+
+
+## _ATENCION!!!_
+
+_Existe un artículo pseudocientífico circulando en varios portales de noticias locales sobre una supuesta investigación de cierta universidad en New York que asociando la aplicación de la vacuna BCG con la ausencia estadística de Coronavirus y buscando la atención de la comunidad médica. Esta investigación es un mamarracho impulsado por un ambicioso autoproclamado neurocientífico, sin los mínimos conocimientos epidemiológicos para fundamentar sus conclusiones. La BCG es una vacuna obligatoria en países donde la Tuberculosis no se encuentra erradicada; es decir, países en "vías de desarrollo". Estos son coincidentemente países donde la disponibilidad de reactivos para realizar los test de PCR para el COVID-19 es ostensiblemente menor que en aquellos donde, coincidentemente, la tuberculosis ha sido erradicada y donde la aplicación de BCG no se encuentra en el calendario obligatorio de vacunación._
