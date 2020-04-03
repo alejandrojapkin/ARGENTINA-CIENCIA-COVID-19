@@ -1,9 +1,11 @@
-![ARGENTINAUNIDA](https://i.postimg.cc/sgty3ZdZ/argentinaunida.png)
-# Coordinemos esfuerzos contra el Coronavirus
 
-Esta es una colección independiente de Proyectos Civiles Tecnologicos para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. 
-El objetivo es darle visibilidad a la ciudadanía y **conectar profesionales con iniciativas de su ideoneidad**. 
-Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta lista pero podrá albergar código fuente de soluciones t donde así fuese necesario/
+<img src="https://i.postimg.cc/sgty3ZdZ/argentinaunida.png" height="100" />
+
+# Actividad Ciudadana en la epidemia Coronavirus
+
+Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.
+ **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.
+Contactate para colaborar.
 
 
 - [Files](#files)
