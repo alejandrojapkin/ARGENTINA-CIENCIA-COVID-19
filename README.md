@@ -1,9 +1,8 @@
-# ARGENTINA-CIENCIA-COVID-19
-Proyectos Tecnologicos para afrontar la Crisis COVID-19 en Argentina
+# Coordinemos esfuerzos contra el Coronavirus
 
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Esta es una colección independiente de Proyectos Civiles Tecnologicos para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. 
+El objetivo es darle visibilidad a la ciudadanía y **conectar profesionales con iniciativas de su ideoneidad**. 
+Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta lista pero podrá albergar código fuente de soluciones t donde así fuese necesario/
 
 
 # Files
