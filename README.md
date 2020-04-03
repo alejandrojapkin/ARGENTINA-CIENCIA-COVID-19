@@ -1,5 +1,4 @@
-![ARGENTINAUNIDA](https://i.postimg.cc/sgty3ZdZ/argentinaunida.png) {:height="100px"}
-<img src="https://i.postimg.cc/sgty3ZdZ/argentinaunida.png" alt="Your image title" width="250"/>
+<img src="https://i.postimg.cc/sgty3ZdZ/argentinaunida.png" alt="Argentina Unida Contra el Coronavirus" width="250"/>
 
 # Actividad Ciudadana en la epidemia COVID-19
 
