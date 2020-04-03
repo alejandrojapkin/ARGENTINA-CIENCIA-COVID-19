@@ -29,21 +29,6 @@ Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta l
 # Respiradores
 Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
 
-## **Inventu - UNR**
-
-Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
-| Requerimiento  | Especificación                          
-|----------------|-------------------------------|
-| Apto Uso Médico | Sí (pendiente aprobación ANMAT)
-| Modalidad      | `Intubación` `No posee modo asistivo`
-| Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
-| Interfaz          |`Pantalla táctil`            |
-|Dashes          |`-- is en-dash, --- is em-dash`|
-
-- **Al 22 de Marzo dice estar en la prueba de concepto (PoC).** 
-- Gerente: Germán Campero
-- [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
-
 ## **Proyecto RespirAR**
 Desarrollo de un respirador diseño libre y público. Plantea explorar alternativas para saltear regulaciones:
 -   Fabricación intrahospitalaria. 
@@ -63,6 +48,24 @@ Desarrollo de un respirador diseño libre y público. Plantea explorar alternati
 
 - El RespirAR hace llamado público a médicos, ingenieros y entes que puedan financiar su desarrollo.
 - [Hacer Click para **sumarse** al proyecto acá](https://forms.gle/cnoBrY3RrapYCioLA)
+- 
+## **Inventu - UNR**
+
+Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
+| Requerimiento  | Especificación                          
+|----------------|-------------------------------|
+| Apto Uso Médico | Sí (pendiente aprobación ANMAT)
+| Modalidad      | `Intubación` `No posee modo asistivo`
+| Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
+| Interfaz          |`Pantalla táctil`            |
+|Dashes          |`-- is en-dash, --- is em-dash`|
+
+- **Al 22 de Marzo dice estar en la prueba de concepto (PoC).** 
+- Gerente: Germán Campero
+- [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
+
+
+
 
 ## **Leistung**
 
