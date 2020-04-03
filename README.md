@@ -108,7 +108,10 @@ La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede s
 
 ## Luz UV Casera
 
-Instrucciones y esquemático para el desarrollo de un sistema de sanitización de elementos vía rayos ultravioletas.
+Instrucciones y esquemático para el desarrollo de un sistema de sanitización de elementos vía rayos ultravioletas.<br>
+Este proyecto propone la realización de un filtro germicida del aire basado en luz ultravioleta de clase C. La luz ultravioleta de clase C (UVC) tiene la capacidad de eliminar virus, bacterias y otros patógenos. si bien otros rangos de longitud de onda también tienen cierto efecto sobre los microorganismos y virus, la UVC es la que ha dado mejores resultados. Pueden ver algunos trabajos y noticias que mencionan los efectos del UVC en casos como el del COVID-19.
+
+ <img src="https://github.com/cirujadigital/OpenUVClean/raw/master/OpenUVClean2_h.jpg" width=65% /> 
 
 - [Hacer Click para tener acceso vía Sitio web.](https://github.com/cirujadigital/OpenUVClean/wiki/Home-Instrucciones)
 
