@@ -24,7 +24,9 @@ Contactate para colaborar.
   * [Modelado Estadístico de COVID-19 en proporción a servicio hospitalario](#modelado-estad-stico-de-covid-19-en-proporci-n-a-servicio-hospitalario)
   * [Paneles estadísticos](#paneles-estad-sticos)
   * [AppJennifer](#appjennifer)
-  * [Data model del COVID-19](#appjennifer)
+  * [Dataset para expertos del COVID-19](#dataset-para-expertos-del-covid-19)
+  * [_Advertencia importante sobre publicaciones estadísticas_](#-atencion----)
+
 
 # Respiradores
 Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
@@ -147,6 +149,6 @@ Esta plataforma  identifica a las personas con fiebre en la oficina / espacio de
 - [Hacer Click para tener acceso vía Sitio web.](https://github.com/pomber/covid19)
 
 
-## _ATENCION!!!_
+## _ATENCION!!!_ Advertencia sobre falacias estadísticas
 
-_Existe un artículo pseudocientífico circulando en varios portales de noticias locales sobre una supuesta investigación de cierta universidad en New York que asociando la aplicación de la vacuna BCG con la ausencia estadística de Coronavirus y buscando la atención de la comunidad médica. Esta investigación es un mamarracho impulsado por un ambicioso autoproclamado neurocientífico, sin los mínimos conocimientos epidemiológicos para fundamentar sus conclusiones. La BCG es una vacuna obligatoria en países donde la Tuberculosis no se encuentra erradicada; es decir, países en "vías de desarrollo". Estos son coincidentemente países donde la disponibilidad de reactivos para realizar los test de PCR para el COVID-19 es ostensiblemente menor que en aquellos donde, coincidentemente, la tuberculosis ha sido erradicada y donde la aplicación de BCG no se encuentra en el calendario obligatorio de vacunación._
+_Existe un artículo pseudocientífico circulando en varios portales de noticias locales sobre una supuesta investigación de cierta universidad en New York vinculando la aplicación de la vacuna BCG con la ausencia estadística de Coronavirus y buscando la atención de la comunidad médica. Esta investigación representa una peligrosa falacia impulsada por un autoproclamado neurocientífico, que no exhibe los mínimos conocimientos epidemiológicos para fundamentar dichas conclusiones. La BCG es una vacuna obligatoria en países donde la Tuberculosis no se encuentra erradicada; es decir, países en "vías de desarrollo". Estos son coincidentemente países donde la disponibilidad de reactivos para realizar los test de PCR para el COVID-19 es ostensiblemente menor que en aquellos donde, coincidentemente, la tuberculosis ha sido erradicada y donde la aplicación de BCG no se encuentra en el calendario obligatorio de vacunación. Este caso nos invita a reflexionar sobre el tipo de información que divulgamos y cómo la obtenemos, para evitar encontrarnos en manos oportunistas._
