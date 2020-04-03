@@ -4,7 +4,7 @@
 # Actividad Ciudadana en la epidemia Coronavirus
 ## Proyectos de bajo costo / tecnologías abiertas
 
-Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.</br> **El enfoque está en alternativas de bajo costo o de tecnologías abiertas de última instancia**.
+Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.</br> **El enfoque está en alternativas de bajo costo o de tecnologías abiertas de última instancia**.</br>
 No represento a ninguna agencia estatal. La información aquí publicada es traída en buena fe, toda fuente ha de ser revisada sin que de ello se desprenda responsabilidad alguna de mi persona. 
 </br>
  **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.</br>
