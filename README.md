@@ -3,8 +3,8 @@
 
 # Actividad Ciudadana en la epidemia Coronavirus
 
-Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.
- **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.
+Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.</br>
+ **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.</br>
 Contactate para colaborar.
 
 
