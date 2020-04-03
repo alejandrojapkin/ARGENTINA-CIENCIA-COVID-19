@@ -27,8 +27,7 @@ Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta l
   * [UML diagrams](#uml-diagrams)
 
 # Respiradores
-
-
+Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
 
 ## **Inventu - UNR**
 
@@ -51,8 +50,7 @@ Produce 300 equipos al año, pero le están solicitando 900 en 4 meses.
 
 ## Tecme
 
-Ya entregó 250 equipos en el país y prepara 500 pedidos. Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años..
-
+Ya entregó 250 equipos en el país y prepara 500 pedidos. 
 ## Delete a file
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
