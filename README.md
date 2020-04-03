@@ -7,26 +7,20 @@ Esta es una colección independiente de propuestas civiles para afrontar la **Cr
  **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.</br>
 Contactate para colaborar.
 
-
-- [Files](#files)
-  * [Create files and folders](#create-files-and-folders)
-  * [Switch to another file](#switch-to-another-file)
-  * [Rename a file](#rename-a-file)
-  * [Delete a file](#delete-a-file)
-  * [Export a file](#export-a-file)
-- [Synchronization](#synchronization)
-  * [Open a file](#open-a-file)
-  * [Save a file](#save-a-file)
-  * [Synchronize a file](#synchronize-a-file)
-  * [Manage file synchronization](#manage-file-synchronization)
-- [Publication](#publication)
-  * [Publish a File](#publish-a-file)
-  * [Update a publication](#update-a-publication)
-  * [Manage file publication](#manage-file-publication)
-- [Markdown extensions](#markdown-extensions)
-  * [SmartyPants](#smartypants)
-  * [KaTeX](#katex)
-  * [UML diagrams](#uml-diagrams)
+- [Respiradores](#respiradores)
+  * [Proyecto RespirAR](#--proyecto-respirar--)
+  * [Inventu - UNR](#--inventu---unr--)
+  * [Leistung](#--leistung--)
+  * [Tecme](#tecme)
+  * [Amek](#amek)
+- [Máscaras y elementos de ascepcia](#m-scaras-y-elementos-de-ascepcia)
+  * [NanoHack](#nanohack)
+  * [Luz UV Casera](#luz-uv-casera)
+- [Instrumental de diagnóstico y estadística](#instrumental-de-diagn-stico-y-estad-stica)
+  * [PocketPCR](#pocketpcr)
+  * [Modelado Estadístico de COVID-19 en proporción a servicio hospitalario](#modelado-estad-stico-de-covid-19-en-proporci-n-a-servicio-hospitalario)
+  * [Paneles estadísticos](#paneles-estad-sticos)
+  * [AppJennifer](#appjennifer)
 
 # Respiradores
 Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
@@ -38,10 +32,12 @@ Desarrollo de un respirador diseño libre y público. Plantea explorar alternati
 
 | Requerimiento  | Especificación                          
 |----------------|-------------------------------|
-| Apto Uso Médico | No (es un dispositivo de última instancia)
-| Modalidad      | `Intubación` `No posee modo asistivo`
-| Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
-| Interfaz          |`Pantalla táctil`            |
+| Licencia        | `Libre fabricación, los esquemáticos serían públicos`
+| Apto Uso Médico | `No (es un dispositivo de última instancia)`
+| Modalidad      | `Intubación` `Asistivo`
+| Capacidad      |`No testeada`         
+| Parametros      | `Frecuencia respiratoria (FR)` `Presión inspiratoria pico (PIP)` `Proporción Inspirar  Expirar (I/E)` `PEEP`
+| Interfaz          |`Pantalla lcd` `Botones`            |
 | Costo          |`U$D 350`|
 
     
@@ -56,17 +52,17 @@ Desarrollo de un respirador diseño libre y público. Plantea explorar alternati
 Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
 | Requerimiento  | Especificación                          
 |----------------|-------------------------------|
-| Apto Uso Médico | Sí (pendiente aprobación ANMAT)
+| Licencia       | `Privada` `Otra`
+| Apto Uso Médico | `Sí (pendiente aprobación ANMAT)`
 | Modalidad      | `Intubación` `No posee modo asistivo`
 | Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
+| Parametros      | `Frecuencia respiratoria (FR)` `Presión inspiratoria pico (PIP)` `Proporción Inspirar  Expirar (I/E)` `PEEP`
 | Interfaz          |`Pantalla táctil`            |
-|Dashes          |`-- is en-dash, --- is em-dash`|
+|Costo          |`No publicado`|
 
 - **Al 22 de Marzo dice estar en la prueba de concepto (PoC).** 
 - Gerente: Germán Campero
 - [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
-
-
 
 
 ## **Leistung**
@@ -76,125 +72,66 @@ Produce 300 equipos al año, pero le están solicitando 900 en 4 meses.
 ## Tecme
 
 Ya entregó 250 equipos en el país y prepara 500 pedidos. 
-## Delete a file
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+## Amek 
 
-## Export a file
+16-03-2020 **Están desarrollando una bolsa AMBU en automatizada**, para que no sea necesario un médico o enfermero accionándola manualmente durante horas.
+[Link](https://drive.google.com/file/d/1wVxMTf5KkvtNR-Nz7afI-pkcwKu0oifZ/view?usp=sharing) de un video del prototipo funcionando la semana pasada hasta que se instaló la cuarentena. **Carecen de bolsa AMBU para continuar su desarrollo.**
+El tiempo de inflado y desinflado lo establece un controlador Arduino u otro micro controlador similar (PIC por ejemplo).
+- Contactos: Pablo o Maximiliano Ancharek
+- Plantearon la necesidad de la bolsa AMBU para seguir adelante:
+- [Resucitadores manuales AMBU](https://www.iberomed.es/blog/2018/02/28/que-son-y-para-que-sirven-los-resucitadores-manuales/)
+- [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/pablo-ancharek-4735947a)
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
 
 # Máscaras y elementos de ascepcia
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+Instrumental de protección de primera y última instancia, con foco en costo-beneficio.
 
-There are two types of synchronization and they can complement each other:
+## NanoHack
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede ser impresa en 3D independientemente. No obstante, el filtro del cual depende la máscara, de óxido de cobre, es propietario y debe ser en principio comprado al desarrollador. Pruebas han demostrado que los materiales empleados  (textil no tejido de polipropileno,  el mismo material que las máscaras quirúrgicas) consigue una eficiencia de filtrado de 96.4% para microorganismos de 1 micron y 89.5% para microorganismos de 0.02 micrones.
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+<p float="left">
+  <img src="https://i.postimg.cc/Fz3W9K12/Screen-Shot-2020-04-03-at-18-19-03.png" width=30% />
+  <img src="https://i.postimg.cc/kG9yNPnS/Screen-Shot-2020-04-03-at-18-19-10.png" width=65% /> 
+  
+</p>
 
-## Open a file
+- [Hacer Click para contactar vía Sitio web.](https://copper3d.com/hackthepandemic/)
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+## Luz UV Casera
 
-## Save a file
+Instrucciones y esquemático para el desarrollo de un sistema de sanitización de elementos vía rayos ultravioletas.
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+- [Hacer Click para tener acceso vía Sitio web.](https://github.com/cirujadigital/OpenUVClean/wiki/Home-Instructions)
 
 
-# Métodos de diagnóstico
+# Instrumental de diagnóstico y estadística
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+## PocketPCR
+El PocketPCR es un proyecto abierto de PCR por termociclado, utilizado para activar reacciones biológicas. La reacción en cadena de la polimerasa (PCR) es un método ampliamente utilizado en biología molecular para hacer copias de un segmento de ADN específico. Las aplicaciones de la técnica incluyen la clonación de ADN para secuenciación, análisis de huellas genéticas, amplificación de ADN antiguo y clonación de genes. Este termociclador ultra portátil y compacto fue diseñado con el objetivo de reducir el costo a un precio asequible para cualquiera que quiera hacer algo de biología Do-It-Your-Self con un kit de inicio de ADN en su cocina. El PocketPCR puede ejecutarse desde un simple adaptador de corriente USB. El dispositivo se puede operar de forma independiente y todos los parámetros se pueden configurar sin la necesidad de una computadora o teléfono inteligente.
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+- [Hacer Click para contactar vía website.](http://gaudi.ch/PocketPCR/)
 
-## Publish a File
+## Modelado Estadístico de COVID-19 en proporción a servicio hospitalario
+Esta herramienta se basa en un modelo SIR (consulte la página para más detalles) que simula un brote de COVID19. La población es inicialmente mayormente susceptible (excepto para los casos iniciales). Las personas que se recuperan de COVID19 son posteriormente inmunes. Actualmente, los parámetros del modelo no se ajustan a los datos, sino que simplemente son valores predeterminados. Estos podrían encajar mejor para algunas localidades que otras. En particular, los recuentos de casos iniciales a menudo son solo estimaciones aproximadas.
+</br></br>
+<img src="https://user-images.githubusercontent.com/9403403/77125848-710b2700-6a47-11ea-84c3-19016d16e9dd.gif" width=100% />
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
+- [Hacer Click para contactar vía website.](https://github.com/neherlab/covid19_scenarios) 
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+## Paneles estadísticos
 
-## Update a publication
+Componentes para gráficas visuales estadísticas.
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+- [Hacer Click para tener acceso vía Sitio web.](https://covid19dashboards.com)
 
 
-# Herramientas estadísticas
+## AppJennifer
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+Esta plataforma  identifica a las personas con fiebre en la oficina / espacio de trabajo compartido. Esta herramienta utiliza sensores térmicos que detectan a los compañeros de trabajo con temperatura corporal elevada. Estadísticamente, el 90% de los empleados en los Estados Unidos vienen a trabajar mientras están enfermos. La plataforma automatiza la identificación temprana de personas que padecen fiebre en el trabajo por diversos motivos, incluidos coronavirus, gripe, resfriado común, rinovirus, etc.
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+- [Hacer Click para contactar vía website.](http://appjennifer.com/)
 
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
