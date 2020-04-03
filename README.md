@@ -32,7 +32,7 @@ Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta l
 
 ## **Inventu - UNR**
 
-Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala.Buscan aprobación de ANMAT.
+Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
 | Requerimiento  | Especificación                          
 |----------------|-------------------------------|
 | Modalidad      | `Intubación` `No posee modo asistivo`
@@ -45,13 +45,13 @@ Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colega
 - [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
 
 
-## Switch to another file
+## **Leistung**
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Produce 300 equipos al año, pero le están solicitando 900 en 4 meses.
 
-## Rename a file
+## Tecme
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+Ya entregó 250 equipos en el país y prepara 500 pedidos. Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años..
 
 ## Delete a file
 
