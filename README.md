@@ -71,10 +71,12 @@ Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Inge
 ## **Leistung**
 
 Produce 300 equipos al año, pero le están solicitando 900 en 4 meses.
+- [Hacer Click para tener acceso vía Sitio web.](http://leistungargentina.com.ar/en/)
 
 ## Tecme
 
 Ya entregó 250 equipos en el país y prepara 500 pedidos. 
+- [Hacer Click para tener acceso vía Sitio web.](https://tecmeglobal.com/home-tecme-ar/)
 
 ## Amek 
 
