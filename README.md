@@ -4,7 +4,7 @@
 # Actividad Ciudadana en la epidemia Coronavirus
 
 Esta es una colección independiente de propuestas civiles para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**.</br>
-No represento a ninguna agencia estatal. Cualquier colaboración pública depende de la buena fe de los visitantes al repositorio.
+No represento a ninguna agencia estatal. La información aquí publicada es traída en buena fe, toda fuente ha de ser revisada sin que de ello se desprenda responsabilidad alguna de mi persona. 
 </br>
  **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.</br>
 Contactate para colaborar.
