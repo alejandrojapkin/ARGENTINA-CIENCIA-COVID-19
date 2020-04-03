@@ -1,12 +1,9 @@
-<img src="https://i.postimg.cc/sgty3ZdZ/argentinaunida.png" alt="Argentina Unida Contra el Coronavirus" width="250"/>
+![ARGENTINAUNIDA](https://i.postimg.cc/sgty3ZdZ/argentinaunida.png)
+# Coordinemos esfuerzos contra el Coronavirus
 
-# Actividad Ciudadana en la epidemia COVID-19
-
-Esta es una colección independiente de propuestas para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. Los proyectos listados enmarcan tecnologías tanto abiertas como cerradas, de empresas de gran envergadura o de proyectos científicos independientes. La colección es de interés informativo civil y es independiente de las arduas actividades del Estado Argentino durante esta pandemia.
-Son bienvenidas las colaboraciones.
-
-**El objetivo es darle visibilidad a la ciudadanos interesados y conectar profesionales con iniciativas de su ideoneidad**. 
-
+Esta es una colección independiente de Proyectos Civiles Tecnologicos para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. 
+El objetivo es darle visibilidad a la ciudadanía y **conectar profesionales con iniciativas de su ideoneidad**. 
+Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta lista pero podrá albergar código fuente de soluciones t donde así fuese necesario/
 
 
 - [Files](#files)
@@ -31,11 +28,15 @@ Son bienvenidas las colaboraciones.
 
 # Respiradores
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-## Create files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+## **Inventu - UNR**
+
+Participan la empresa Inventu Ingeniería y un grupo de investigadores de la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala.Buscan aprobación de ANMAT.
+**Al 22 de Marzo dice estar en la prueba de concepto (PoC).** 
+Gerente: Germán Campero
+[Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
+
 
 ## Switch to another file
 
