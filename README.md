@@ -110,7 +110,7 @@ La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede s
 
 Instrucciones y esquemático para el desarrollo de un sistema de sanitización de elementos vía rayos ultravioletas.
 
-- [Hacer Click para tener acceso vía Sitio web.](https://github.com/cirujadigital/OpenUVClean/wiki/Home-Instructions)
+- [Hacer Click para tener acceso vía Sitio web.](https://github.com/cirujadigital/OpenUVClean/wiki/Home-Instrucciones)
 
 
 # Instrumental de diagnóstico y estadística
