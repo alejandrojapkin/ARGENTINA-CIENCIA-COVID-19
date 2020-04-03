@@ -5,7 +5,27 @@ El objetivo es darle visibilidad a la ciudadanía y **conectar profesionales con
 Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta lista pero podrá albergar código fuente de soluciones t donde así fuese necesario/
 
 
-# Files
+- [Files](#files)
+  * [Create files and folders](#create-files-and-folders)
+  * [Switch to another file](#switch-to-another-file)
+  * [Rename a file](#rename-a-file)
+  * [Delete a file](#delete-a-file)
+  * [Export a file](#export-a-file)
+- [Synchronization](#synchronization)
+  * [Open a file](#open-a-file)
+  * [Save a file](#save-a-file)
+  * [Synchronize a file](#synchronize-a-file)
+  * [Manage file synchronization](#manage-file-synchronization)
+- [Publication](#publication)
+  * [Publish a File](#publish-a-file)
+  * [Update a publication](#update-a-publication)
+  * [Manage file publication](#manage-file-publication)
+- [Markdown extensions](#markdown-extensions)
+  * [SmartyPants](#smartypants)
+  * [KaTeX](#katex)
+  * [UML diagrams](#uml-diagrams)
+
+# Respiradores
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -30,7 +50,7 @@ You can delete the current file by clicking the **Remove** button in the file ex
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
 
-# Synchronization
+# Máscaras y elementos de ascepcia
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -63,7 +83,7 @@ If you just have modified your file and you want to force syncing, click the **S
 Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
 
 
-# Publication
+# Métodos de diagnóstico
 
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
@@ -87,7 +107,7 @@ After publishing, StackEdit keeps your file linked to that publication which mak
 Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
 
-# Markdown extensions
+# Herramientas estadísticas
 
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
