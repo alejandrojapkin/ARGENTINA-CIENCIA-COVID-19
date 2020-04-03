@@ -1,8 +1,9 @@
 ![ARGENTINAUNIDA](https://i.postimg.cc/sgty3ZdZ/argentinaunida.png)
 # Actividad Ciudadana en la epidemia COVID-19
 
-Esta es una colección independiente de Proyectos Civiles Tecnologicos para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. Los proyectos aquí enmarcan tecnologías de empresas privadas como así soluciones tecnológicas de código abierto. La colección es de interés informativo, algunos de estos proyectos pueden o no estar siendo evaluados por entes del Estado.
-Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta lista pero podrá albergar código fuente de soluciones t donde así fuese necesario.
+Esta es una colección independiente de Proyectos Civiles Tecnologicos para afrontar la **Crisis SARS-CoV2 (Coronavirus) en Argentina**. Los proyectos listados enmarcan tecnologías tanto abiertas como cerradas, de empresas de gran envergadura o de proyectos científicos independientes. La colección es de interés informativo civil y es independiente de las arduas actividades del Estado Argentino durante esta pandemia.
+Son bienvenidas las colaboraciones.
+
 **El objetivo es darle visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**. 
 
 
