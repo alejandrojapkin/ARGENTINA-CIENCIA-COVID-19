@@ -32,7 +32,14 @@ Las colaboraciones son bienvenidas y necesarias; el proyecto se inicia de esta l
 
 ## **Inventu - UNR**
 
-Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala.Buscan aprobación de ANMAT.</br>
+Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala.Buscan aprobación de ANMAT.
+| Requerimiento  | Especificación                          
+|----------------|-------------------------------|
+| Modalidad      | `Intubación` `No posee modo asistivo`
+| Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
+| Interfaz          |`Pantalla táctil`            |
+|Dashes          |`-- is en-dash, --- is em-dash`|
+
 - **Al 22 de Marzo dice estar en la prueba de concepto (PoC).** 
 - Gerente: Germán Campero
 - [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
