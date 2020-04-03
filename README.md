@@ -34,6 +34,7 @@ Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respi
 Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
 | Requerimiento  | Especificación                          
 |----------------|-------------------------------|
+| Apto Uso Médico | Sí (pendiente aprobación ANMAT)
 | Modalidad      | `Intubación` `No posee modo asistivo`
 | Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
 | Interfaz          |`Pantalla táctil`            |
@@ -43,6 +44,25 @@ Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Inge
 - Gerente: Germán Campero
 - [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
 
+## **Proyecto RespirAR**
+Desarrollo de un respirador diseño libre y público. Plantea explorar alternativas para saltear regulaciones:
+-   Fabricación intrahospitalaria. 
+-   Consentimiento informado por el paciente.
+
+| Requerimiento  | Especificación                          
+|----------------|-------------------------------|
+| Apto Uso Médico | No (es un dispositivo de última instancia)
+| Modalidad      | `Intubación` `No posee modo asistivo`
+| Capacidad      |`Volumen Max: 20 l/m` `Presión Max: 120cm de columna de agua`             |
+| Interfaz          |`Pantalla táctil`            |
+| Costo          |`U$D 350`|
+
+    
+23-03-2020 Presentaron **CARMA**. Este es el estadio actual del prototipo que venimos trabajando desde hace unos días y que Lucas Vassarotto está desarrollando y validando con la colaboración interdisciplinaria de un grupo de profesionales.
+
+
+- El RespirAR hace llamado público a médicos, ingenieros y entes que puedan financiar su desarrollo.
+- [Hacer Click para **sumarse** al proyecto acá](https://forms.gle/cnoBrY3RrapYCioLA)
 
 ## **Leistung**
 
