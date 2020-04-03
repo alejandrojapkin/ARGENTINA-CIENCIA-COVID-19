@@ -48,9 +48,9 @@ Desarrollo de un respirador diseño libre y público. Plantea explorar alternati
 23-03-2020 Presentaron **CARMA**. Este es el estadio actual del prototipo que venimos trabajando desde hace unos días y que Lucas Vassarotto está desarrollando y validando con la colaboración interdisciplinaria de un grupo de profesionales.
 
 
-- El RespirAR hace llamado público a médicos, ingenieros y entes que puedan financiar su desarrollo.
+- RespirAR hace llamado público a médicos, ingenieros y entes que puedan financiar su desarrollo.
 - [Hacer Click para **sumarse** al proyecto acá](https://forms.gle/cnoBrY3RrapYCioLA)
-- 
+
 ## **Inventu - UNR**
 
 Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
