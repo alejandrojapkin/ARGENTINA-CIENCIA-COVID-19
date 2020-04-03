@@ -24,6 +24,7 @@ Contactate para colaborar.
   * [Modelado Estadístico de COVID-19 en proporción a servicio hospitalario](#modelado-estad-stico-de-covid-19-en-proporci-n-a-servicio-hospitalario)
   * [Paneles estadísticos](#paneles-estad-sticos)
   * [AppJennifer](#appjennifer)
+  * [Data model del COVID-19](#appjennifer)
 
 # Respiradores
 Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
@@ -141,3 +142,6 @@ Esta plataforma  identifica a las personas con fiebre en la oficina / espacio de
 
 - [Hacer Click para contactar vía website.](http://appjennifer.com/)
 
+## Dataset para expertos del COVID-19
+
+- [Hacer Click para tener acceso vía Sitio web.](https://github.com/pomber/covid19)
