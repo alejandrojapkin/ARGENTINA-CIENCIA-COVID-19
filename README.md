@@ -11,21 +11,21 @@ No represento a ninguna agencia estatal. La información aquí publicada es tra�
 Esta lista se seguirá desarrollando. Contactate para colaborar.
 
 - [Respiradores](#respiradores)
-  * [Proyecto RespirAR](#--proyecto-respirar--)
-  * [Inventu - UNR](#--inventu---unr--)
-  * [Leistung](#--leistung--)
+  * [Proyecto RespirAR](#proyecto-respirar)
+  * [Inventu - UNR](#inventu---unr)
+  * [Leistung](#leistung)
   * [Tecme](#tecme)
   * [Amek](#amek)
 - [Máscaras y elementos de ascepcia](#m-scaras-y-elementos-de-ascepcia)
   * [NanoHack](#nanohack)
-  * [Luz UV Casera](#luz-uv-casera)
+  * [Purificador de aire (elimina virus)](#purificador-de-aire--elimina-virus-)
 - [Instrumental de diagnóstico y estadística](#instrumental-de-diagn-stico-y-estad-stica)
   * [PocketPCR](#pocketpcr)
   * [Modelado Estadístico de COVID-19 en proporción a servicio hospitalario](#modelado-estad-stico-de-covid-19-en-proporci-n-a-servicio-hospitalario)
   * [Comparador de países](#comparador-de-pa-ses)
   * [Paneles estadísticos](#paneles-estad-sticos)
   * [AppJennifer](#appjennifer)
-  * [Dataset para expertos del COVID-19](#dataset-para-expertos-del-covid-19)
+  * [Dataset científico del COVID-19](#dataset-cient-fico-del-covid-19)
   * [_Advertencia sobre falacias estadísticas_](#-advertencia-sobre-falacias-estad-sticas-)
 
 
@@ -110,7 +110,7 @@ La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede s
 
 - [Hacer Click para contactar vía Sitio web.](https://copper3d.com/hackthepandemic/)
 
-## Luz UV Casera
+## Purificador de aire (elimina virus)
 
 Instrucciones y esquemático para el desarrollo de un sistema de sanitización de elementos vía rayos ultravioletas.<br>
 Este proyecto propone la realización de un filtro germicida del aire basado en luz ultravioleta de clase C. La luz ultravioleta de clase C (UVC) tiene la capacidad de eliminar virus, bacterias y otros patógenos. si bien otros rangos de longitud de onda también tienen cierto efecto sobre los microorganismos y virus, la UVC es la que ha dado mejores resultados. Pueden ver algunos trabajos y noticias que mencionan los efectos del UVC en casos como el del COVID-19.
