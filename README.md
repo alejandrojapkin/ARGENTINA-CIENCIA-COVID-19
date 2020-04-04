@@ -8,7 +8,7 @@ Esta es una colección independiente de propuestas civiles para afrontar la **Cr
 No represento a ninguna agencia estatal. La información aquí publicada es traída en buena fe, toda fuente ha de ser revisada sin que de ello se desprenda responsabilidad alguna de mi persona. 
 </br>
  **El objetivo es dar visibilidad a la ciudadanía y conectar profesionales con iniciativas de su ideoneidad**.</br>
-Contactate para colaborar.
+Esta lista se seguirá desarrollando. Contactate para colaborar.
 
 - [Respiradores](#respiradores)
   * [Proyecto RespirAR](#--proyecto-respirar--)
