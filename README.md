@@ -125,18 +125,21 @@ El PocketPCR es un proyecto abierto de PCR por termociclado, utilizado para acti
 - [Hacer Click para contactar vía website.](http://gaudi.ch/PocketPCR/)
 
 ## Modelado Estadístico de COVID-19 en proporción a servicio hospitalario
-Esta herramienta se basa en un modelo SIR (consulte la página para más detalles) que simula un brote de COVID19. La población es inicialmente mayormente susceptible (excepto para los casos iniciales). Las personas que se recuperan de COVID19 son posteriormente inmunes. Actualmente, los parámetros del modelo no se ajustan a los datos, sino que simplemente son valores predeterminados. Estos podrían encajar mejor para algunas localidades que otras. En particular, los recuentos de casos iniciales a menudo son solo estimaciones aproximadas.
+Este panel permite estimar la respuesta a COVID-19 en función de experiencias previas, parametrizando la disponibilidad de herramientas de salud. Las predicciones se basan en un modelo SIR (consulte la página para más detalles) que simula un brote de COVID19. La población as asume inicialmente mayormente susceptible (excepto para los casos iniciales). Las personas que se recuperan de COVID19 son posteriormente consideradas inmunes en la proyección (aunque esto no ha sido probado científicamente). Algunos parámetros del modelo no se ajustan a los datos, sino que simplemente son valores predeterminados;  podrían encajar mejor para algunas localidades que otras. En particular, los recuentos de casos iniciales a menudo son solo estimaciones aproximadas.
 </br></br>
 <img src="https://user-images.githubusercontent.com/9403403/77125848-710b2700-6a47-11ea-84c3-19016d16e9dd.gif" width=100% />
 
 - [Hacer Click para contactar vía website.](https://github.com/neherlab/covid19_scenarios) 
 
+## Comparador de países
+
+Generador de estadística comparando parámetros de diferentes países.
+- [Hacer Click para tener acceso al Panel.](https://bibbase.org/other/covid-19)
+
 ## Paneles estadísticos
 
 Componentes para gráficas visuales estadísticas.
-
 - [Hacer Click para tener acceso vía Sitio web.](https://covid19dashboards.com)
-
 
 ## AppJennifer
 
