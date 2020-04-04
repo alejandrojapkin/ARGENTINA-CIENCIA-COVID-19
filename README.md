@@ -100,7 +100,7 @@ Instrumental de protección de primera y última instancia, con foco en costo-be
 
 ## NanoHack
 
-La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede ser impresa en 3D independientemente. No obstante, el filtro del cual depende la máscara, de óxido de cobre, es propietario y debe ser en principio comprado al desarrollador. Pruebas han demostrado que los materiales empleados  (textil no tejido de polipropileno,  el mismo material que las máscaras quirúrgicas) consigue una eficiencia de filtrado de 96.4% para microorganismos de 1 micron y 89.5% para microorganismos de 0.02 micrones.
+La máscara NanoHack es un dispositivo de última instancia cuya carcaza puede ser impresa en 3D independientemente. No obstante, el filtro del cual depende la máscara, de óxido de cobre, es propietario y debe ser en principio comprado al desarrollador. Pruebas han demostrado que los materiales empleados  (textil no tejido de polipropileno,  el mismo material que las máscaras quirúrgicas) consigue una eficiencia de filtrado de 96.4% para microorganismos de 1 micron y 89.5% para microorganismos de 0.02 micrones. _Nótese que los materiales de impresión 3D no son los plásticos usualmente empleados por la impresión 3D hogareña_.
 
 <p float="left">
   <img src="https://i.postimg.cc/Fz3W9K12/Screen-Shot-2020-04-03-at-18-19-03.png" width=30% />
