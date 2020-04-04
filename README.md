@@ -30,7 +30,7 @@ Esta lista se seguirá desarrollando. Contactate para colaborar.
 
 
 # Respiradores
-Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
+Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años. **Dato reciente** el gobierno trabaja junto a diferentes entidades para adaptar pulmones mecánicos a las necesidades del COVID-19 y ponerlos a disposición de los afectados.
 
 ## Proyecto RespirAR
 Desarrollo de un respirador diseño libre y público. Plantea explorar alternativas para saltear regulaciones:
