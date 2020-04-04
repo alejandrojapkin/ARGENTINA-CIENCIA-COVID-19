@@ -135,7 +135,7 @@ Este panel permite estimar la respuesta a COVID-19 en función de experiencias p
 ## Comparador de países
 
 Generador de estadística comparando parámetros de diferentes países.
-<img src="https://i.postimg.cc/rFZVcycj/Screen-Shot-2020-04-04-at-14-39-11.png" height=50% />
+<img src="https://i.postimg.cc/BvSBDGXj/Screen-Shot-2020-04-04-at-14-39-11.png" height=40% />
 - [Hacer Click para tener acceso al Panel.](https://bibbase.org/other/covid-19)
 
 ## Paneles estadísticos
