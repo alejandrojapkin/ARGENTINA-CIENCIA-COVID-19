@@ -22,6 +22,7 @@ Esta lista se seguirá desarrollando. Contactate para colaborar.
 - [Instrumental de diagnóstico y estadística](#instrumental-de-diagn-stico-y-estad-stica)
   * [PocketPCR](#pocketpcr)
   * [Modelado Estadístico de COVID-19 en proporción a servicio hospitalario](#modelado-estad-stico-de-covid-19-en-proporci-n-a-servicio-hospitalario)
+  * [Comparador de países](#comparador-de-pa-ses)
   * [Paneles estadísticos](#paneles-estad-sticos)
   * [AppJennifer](#appjennifer)
   * [Dataset para expertos del COVID-19](#dataset-para-expertos-del-covid-19)
@@ -31,7 +32,7 @@ Esta lista se seguirá desarrollando. Contactate para colaborar.
 # Respiradores
 Según datos del mercado de la salud, en Argentina hay entre 5.000 y 7.000 respiradores mecánicos en actividad, algunos con una antigüedad de siete a 10 años.
 
-## **Proyecto RespirAR**
+## Proyecto RespirAR
 Desarrollo de un respirador diseño libre y público. Plantea explorar alternativas para saltear regulaciones:
 -   Fabricación intrahospitalaria. 
 -   Consentimiento informado por el paciente.
@@ -53,7 +54,7 @@ Desarrollo de un respirador diseño libre y público. Plantea explorar alternati
 - RespirAR hace llamado público a médicos, ingenieros y entes que puedan financiar su desarrollo.
 - [Hacer Click para **sumarse** al proyecto acá](https://forms.gle/cnoBrY3RrapYCioLA)
 
-## **Inventu - UNR**
+## Inventu - UNR
 
 Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Ingeniería y sus colegas en la Universidad Nacional de Rosario con alianza con las empresas Update Ingeniería y Digilogic. Se trata de un aporte de 2 millones de pesos. Están terminando el prototipo de un respirador artificial de “bajo costo, específico para COVID-19 y que sea fabricable en escala. Buscan aprobación expedita de ANMAT.
 | Requerimiento  | Especificación                          
@@ -71,7 +72,7 @@ Proyecto Privado de Respirador de bajo costo. Participan la empresa Inventu Inge
 - [Hacer Click para contactar vía Linkedin.](https://ar.linkedin.com/in/german-campero-45b063123)
 
 
-## **Leistung**
+## Leistung
 
 Produce 300 equipos al año, pero le están solicitando 900 en 4 meses.
 - [Hacer Click para tener acceso vía Sitio web.](http://leistungargentina.com.ar/en/)
