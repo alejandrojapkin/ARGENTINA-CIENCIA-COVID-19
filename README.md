@@ -149,8 +149,29 @@ Esta plataforma  identifica a las personas con fiebre en la oficina / espacio de
 
 - [Hacer Click para contactar vía website.](http://appjennifer.com/)
 
-## Dataset para expertos del COVID-19
+## Dataset científico del COVID-19
+Transforma los data de CSSEGISandData/COVID-19 en un archivo de base de datos no estructurada (JSON).
 
+```
+{
+  "Thailand": [
+    {
+      "date": "2020-1-22",
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    },
+    ...
+  ],
+  ...
+}
+```
 - [Hacer Click para tener acceso vía Sitio web.](https://github.com/pomber/covid19)
 
 
